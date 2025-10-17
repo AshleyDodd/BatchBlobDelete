@@ -115,6 +115,8 @@ Example entries:
 2025-10-15 09:40:03Z Done.
 ```
 
+Actual log with redacted folders — see [batch-delete.log](./batch-delete.log)
+
 ---
 
 ## Performance Tuning
