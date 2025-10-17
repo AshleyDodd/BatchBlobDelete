@@ -61,7 +61,8 @@ Output:
   --service "https://<account>.blob.core.windows.net/?<SAS>" `
   --container immutable `
   --prefix "Folder1/Folder2/..." `
-  --batch 256 --concurrency 64 `
+  --batch 256 `
+  --concurrency 64 `
   --foldersParallel 1 `
   --heartbeat 10000 `
   --log "C:\Logs\ImmutableCleanup.log"
